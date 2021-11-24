@@ -42,5 +42,5 @@ neo4j
 
 dynamodb
 
-chmod u+x script.sh
+
 
