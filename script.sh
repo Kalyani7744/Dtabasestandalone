@@ -1,4 +1,4 @@
-
+#!/bin/bash
 function mysql()
 {
 #Install MySQL
