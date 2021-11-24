@@ -3,7 +3,7 @@ function mysql()
 {
 #Install MySQL
 sudo apt update
-sudo apt install -y mysql-server 
+sudo apt install -y mysql-server-8.0
 }
 
 function postgre()
