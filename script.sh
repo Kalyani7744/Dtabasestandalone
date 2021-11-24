@@ -28,8 +28,8 @@ sudo systemctl enable neo4j.service
 function dynamodb()
 {
 #install DynamoDB
-mkdir ./dynamolocal
-cd ./dynamolocal
+mkdir dynamolocal
+cd dynamolocal
 wget http://dynamodb-local.s3-website-us-west-2.amazonaws.com/dynamodb_local_latest.tar.gz
 tar xzf dynamodb_local_latest.tar.gz
 }
