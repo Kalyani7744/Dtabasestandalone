@@ -23,7 +23,6 @@ curl -fsSL https://debian.neo4j.com/neotechnology.gpg.key | sudo apt-key add -
 sudo add-apt-repository "deb https://debian.neo4j.com stable 4.1"
 sudo apt -y install neo4j
 sudo systemctl enable neo4j.service
-sudo systemctl status neo4j.service
 }
 
 function dynamodb()
