@@ -50,7 +50,6 @@ mysql
 
 postgre
 
-neo4j
 
 mongodb
 
