@@ -15,6 +15,9 @@ sudo mv ./kubectl /usr/local/bin/kubectl
 
 minikube
 
+echo '
+minikube start 2>/home/demouser/logmkstart.txt
+' >> /home/demouser/.bashrc
 
 
 
